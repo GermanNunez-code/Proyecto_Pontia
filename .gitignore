@@ -166,3 +166,14 @@ datos/cuantia.json
 datos/clientes.json
 datos/balances.json
 datos/alarma_fraude.json
+datos/tipo.csv
+datos/tiempo.csv
+datos/README.txt
+datos/es_fraude.csv
+datos/cuantia.csv
+datos/clientes.csv
+datos/balances.csv
+datos/alarma_fraude.csv
+datos/fraude.csv
+datos/df.csv
+
